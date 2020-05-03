@@ -1,6 +1,6 @@
 // .vuepress/config.js
 module.exports = {
-  title: "《人件》",
+  title: "《人件(原书第 3 版)》 ",
   base: "/doc-pw/",
   themeConfig: {
     repo: "gdut-yy/Peopleware-zh",

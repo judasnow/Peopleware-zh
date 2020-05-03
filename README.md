@@ -1,6 +1,6 @@
 # Peopleware-zh
 
-《人件》
+《人件(原书第 3 版)》
 
 在线阅读：[http://gdut_yy.gitee.io/doc-pw/](http://gdut_yy.gitee.io/doc-pw/)
 
