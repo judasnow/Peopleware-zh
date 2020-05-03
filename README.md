@@ -4,7 +4,7 @@
 
 在线阅读：[http://gdut_yy.gitee.io/doc-pw/](http://gdut_yy.gitee.io/doc-pw/)
 
-<img src="./docs/cover.jpg" width=24% />
+<img src="./docs/cover.png" width=24% />
 
 ## 目录
 

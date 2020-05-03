@@ -1,6 +1,6 @@
 # 目录
 
-<img src="./cover.jpg" style="width: 28%" />
+<img src="./cover.png" style="width: 28%" />
 
 - [第一部分 管理人力资源](./part1.md)
 - [01 此时此刻，一个项目正在走向失败](./ch1.md)
